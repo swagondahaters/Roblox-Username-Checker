@@ -88,7 +88,7 @@ while True:
     print(f"  ███   ██      ███████ █████   ██      █████   █████   ██████      ██    ██      █████     ██ ██ ██ ")
     print(f" ██ ██  ██      ██   ██ ██      ██      ██  ██  ██      ██   ██      ██  ██      ██         ████  ██ ")
     print(f"██   ██  ██████ ██   ██ ███████  ██████ ██   ██ ███████ ██   ██       ████       ███████ ██  ██████  {Style.RESET_ALL}")
-    print(f"{Fore.MAGENTA}                    Developed   By   Caleb/888  {Style.RESET_ALL}\n")
+    print(f"{Fore.MAGENTA}                    Developed   By   critjng  {Style.RESET_ALL}\n")
     
     print(f"{Fore.MAGENTA}[{Fore.RESET}+{Fore.MAGENTA}]{Fore.RESET} Choose an option:")
     print(f"{Fore.MAGENTA}[{Fore.RESET}1{Fore.MAGENTA}]{Fore.RESET} Manually enter a username")
